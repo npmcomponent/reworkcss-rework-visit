@@ -1,14 +1,11 @@
 {
-  "name": "rework-visit",
-  "version": "1.0.0",
+  "name": "reworkcss-rework-visit",
   "description": "Rework declaration visitor utility",
+  "version": "1.0.0",
   "keywords": [
     "css",
     "rework"
   ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/visionmedia/rework-visit.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
